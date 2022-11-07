@@ -4,7 +4,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.concurrent.TimeUnit;
 
 
-public class try1 {
+public class SampleTest_LogIn {
 
 
 	public static void main(String[] args) {
